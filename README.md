@@ -18,13 +18,9 @@ I'm eager to collaborate with other enthusiasts on open source projects, especia
 
 The best way to reach me is through my email: semwaqas@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/semwaqas) and [Twitter](https://twitter.com/semwaqas) for more professional and casual exchanges.
 
-## 😄 Pronouns: He/Him
-
-Feel free to use he/him pronouns when referring to me. I'm all for inclusivity and diversity in tech!
-
 ## ⚡ Fun fact: I'm Table Tennis Player
 
-When I'm not coding or deploying smart contracts, you'll likely find me contemplating my next move in a chess game. I believe chess strategy can teach us a lot about problem-solving and decision-making in programming and life.
+When I'm not coding or deploying smart contracts, you'll likely find me perfecting my table tennis skills. I believe the precision, reflexes, and strategy required in table tennis mirror the qualities needed in programming and problem-solving. Each shot teaches focus, adaptability, and quick decision-making—essential skills in both the game and life.
 
 ---
 
