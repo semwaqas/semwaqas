@@ -1,6 +1,3 @@
-Based on the details you've provided and aiming to create a complete and engaging GitHub profile for you, here's how you could structure your `README.md`:
-
-```markdown
 # 👋 Hi, I’m @semwaqas
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer specialized in the MERN stack, React Native, Solidity, and RUST for Blockchain technologies. With a keen interest in building scalable, efficient, and robust applications, I'm always on the lookout for new challenges and opportunities to grow.
