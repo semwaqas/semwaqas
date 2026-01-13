@@ -1,28 +1,76 @@
-# 👋 Hi, I’m @semwaqas
+# 👋 Hi, I'm Muhammad Waqas
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer specialized in the MERN stack, React Native, Solidity, and RUST for Blockchain technologies. With a keen interest in building scalable, efficient, and robust applications, I'm always on the lookout for new challenges and opportunities to grow.
+**Senior Software Engineer / Technical Lead**  
+Backend & Full-Stack • Cloud-Native Systems • Distributed Architectures
 
-## 👀 I’m interested in Blockchain Technology
+I’m a hands-on software engineer with **11+ years of experience** building, scaling, and maintaining **production-grade backend and full-stack systems** used by real users globally.
 
-My fascination with blockchain technology drives me to explore its limitless potential. From decentralized applications (DApps) to smart contracts, I am constantly experimenting with how to leverage blockchain to solve real-world problems.
-
-## 🌱 I’m currently learning Advanced Solidity Patterns
-
-As part of my journey to deepen my expertise in blockchain, I'm diving into advanced Solidity patterns and exploring the latest developments in Ethereum 2.0. I'm also keen on understanding the subtleties of cross-chain technologies to build more integrated and efficient blockchain solutions.
-
-## 💞️ I’m looking to collaborate on Open Source Projects
-
-I'm eager to collaborate with other enthusiasts on open source projects, especially those focused on blockchain, web3, and decentralized finance (DeFi). If you're working on something exciting and could use an extra pair of hands (or codes!), feel free to reach out.
-
-## 📫 How to reach me
-
-The best way to reach me is through my email: semwaqas@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/semwaqas) and [Twitter](https://twitter.com/semwaqas) for more professional and casual exchanges.
-
-## ⚡ Fun fact: I'm Table Tennis Player
-
-When I'm not coding or deploying smart contracts, you'll likely find me perfecting my table tennis skills. I believe the precision, reflexes, and strategy required in table tennis mirror the qualities needed in programming and problem-solving. Each shot teaches focus, adaptability, and quick decision-making—essential skills in both the game and life.
+I specialize in **backend-heavy platforms**, system design, and cloud-native development, while staying close to the code. I enjoy solving complex problems, improving performance, and delivering reliable software at scale.
 
 ---
 
-Thank you for visiting my profile. Let's connect and build something amazing together!
+## 🚀 What I Work On
+
+- Designing and building **cloud-native backend systems**
+- Developing **high-performance APIs and data pipelines**
+- Scaling systems for **reliability, security, and performance**
+- Hands-on **full-stack development** (backend-first)
+- Mentoring engineers and improving engineering practices
+- Using **AI-assisted development** to ship faster with quality
+
+---
+
+## 🧠 Tech Stack
+
+**Backend**
+- Node.js, NestJS, ASP.NET MVC, C#, Python
+
+**Frontend**
+- React, Next.js
+
+**Databases**
+- PostgreSQL, MongoDB, MySQL, Firebase
+
+**Cloud & DevOps**
+- AWS, Docker, CI/CD, Linux
+
+**Architecture**
+- Distributed Systems, Microservices, API Design, Scalability
+
+**Blockchain (Selective / Project-based)**
+- Solidity, Web3, Ethereum, Solana, Polygon, Wallets, DeFi
+
+**AI & Productivity**
+- AI-assisted development, automation, intelligent workflows
+
+---
+
+## 📌 Selected Work & Experience
+
+- Built backend services handling **1M+ monthly transactions**
+- Delivered platforms with **99.9% uptime**
+- Enabled **2× user growth** through scalable architectures
+- Reduced **latency by ~30%** and **cloud costs by ~25%**
+- Shipped **20+ production systems** across fintech, Web3, AI and SaaS
+- Led and mentored distributed engineering teams
+
+---
+
+## 🌍 Currently Open To
+
+- **Senior Software Engineer**
+- **Technical Lead**
+- Backend / Full-Stack roles (hands-on)
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://linkedin.com/in/semwaqas
+- **Website:** https://mwaqas.info
+- **Email:** semwaqas@gmail.com
+
+---
+
+> I believe in clean code, pragmatic architecture, and shipping software that works — reliably and at scale.
 
